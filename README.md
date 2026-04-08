@@ -1,5 +1,5 @@
-# Machine Learning
-This repository contains implementations and experiments based on TU Berlin's *Machine Learning 1* course, with a focus on the mathematical and algorithmic foundations of machine learning.
+# Machine Learning 1
+This repository contains implementations and experiments based on TU Berlin's *Machine Learning 1* course taught by Prof. Dr. Klaus-Robert Müller during the Winter Semester 2025/2026, with a focus on the mathematical and algorithmic foundations of machine learning.
 
 ## Topics Covered
 - Bayesian decision theory and probabilistic classification
